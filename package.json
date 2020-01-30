@@ -1,0 +1,15 @@
+{
+	"name": "@cnamts/vue-cli-preset",
+	"version": "0.1.0",
+	"description": "Vue CLI preset using Vue Dash",
+	"homepage": "https://github.com/assurance-maladie-digital/design-system#readme",
+	"bugs": {
+		"url": "https://github.com/assurance-maladie-digital/design-system/issues",
+		"email": "me@deraw.dev"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Dylan Broussard",
+		"email": "me@deraw.dev"
+	}
+}
