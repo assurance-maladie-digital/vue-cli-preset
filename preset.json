@@ -21,6 +21,7 @@
 		"@vue/cli-plugin-vuex": {},
 		"@vue/cli-plugin-unit-jest": {},
 		"@cnamts/vue-cli-plugin-vue-dash": {
+			"version": "next",
 			"prompts": true
 		}
 	},
