@@ -4,7 +4,6 @@
 	"plugins": {
 		"@vue/cli-plugin-babel": {},
 		"@vue/cli-plugin-typescript": {
-			"tsLint": true,
 			"lintOn": [
 				"save",
 				"commit"
