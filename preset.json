@@ -3,7 +3,7 @@
 	"useConfigFiles": true,
 	"plugins": {
 		"@cnamts/vue-cli-plugin-vue-dash": {
-			"version": "next",
+			"version": "^2.0.0",
 			"prompts": true
 		}
 	},
