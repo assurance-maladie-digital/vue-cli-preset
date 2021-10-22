@@ -1,6 +1,6 @@
 {
 	"name": "@cnamts/vue-cli-preset",
-	"version": "0.2.1",
+	"version": "0.3.0",
 	"description": "Vue CLI preset using Vue Dash",
 	"homepage": "https://github.com/assurance-maladie-digital/vue-cli-preset#readme",
 	"bugs": {
